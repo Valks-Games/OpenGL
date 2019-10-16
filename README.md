@@ -1,1 +1,1 @@
-# OpenGL
+http://docs.gl
